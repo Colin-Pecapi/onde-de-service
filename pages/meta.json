@@ -1,0 +1,65 @@
+{
+    "bienvenue": {
+        "title": "Bienvenue",
+        "description": "",
+        "keyword": "",
+        "prev": false,
+        "next": "mon-statut"
+    },
+    "mon-statut": {
+        "title": "Mon statut",
+        "description": "",
+        "keyword": "",
+        "prev": "bienvenue",
+        "next": "mon-parcours"
+    },
+    "mon-parcours": {
+        "title": "Mon parcours",
+        "description": "",
+        "keyword": "",
+        "prev": "mon-statut",
+        "next": "garde-d-enfants"
+    },
+    "garde-d-enfants": {
+        "title": "Garde d'enfants",
+        "description": "",
+        "keyword": "",
+        "prev": "mon-parcours",
+        "next": "garde-d-enfants-tarif"
+    },
+    "garde-d-enfants-tarif": {
+        "title": "Tarif garde d'enfants",
+        "description": "",
+        "keyword": "",
+        "prev": "garde-d-enfants",
+        "next": "soutien-scolaire"
+    },
+    "soutien-scolaire": {
+        "title": "Soutien scolaire",
+        "description": "",
+        "keyword": "Élèves de primaire, Élèves, primaire, eleves, Collèges et lycée, Collèges,lycée, Colleges, lycee, Brevet et Bac, Brevet, Bac, Prépa concours, Prépa, concours, Prepa,domicile,",
+        "prev": "garde-d-enfants-tarif",
+        "next": "soutien-scolaire-tarif"
+    },
+    "soutien-scolaire-tarif": {
+        "title": "Tarif soutien scolaire",
+        "description": "",
+        "keyword": "",
+        "prev": "soutien-scolaire",
+        "next": "contact"
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "",
+        "keyword": "",
+        "prev": "soutien-scolaire-tarif",
+        "next": false
+    },
+    "default": {
+        "title": "",
+        "description": "J’interviens personnellement auprès des enfants et des élèves pour de la garde d'enfants et du soutien scolaire.",
+        "keyword": "Services à la personne, Onde de service, Garde d’enfants, Tarifs garde d’enfant, Soutien scolaire, Tarifs soutien scolaire, Contact, Services, personne,Onde, garde,enfants, tarifs, soutien,scolaire,  Contact, Sensibilité Montessori, Sensibilité, Montessori, Sensibilite, Beaux-Arts, Montpellier, 34000, 34, 34090, 34070, CAF, Élèves de primaire, Élèves, primaire, eleves Collèges et lycée, eleves, Collèges,lycée, Colleges, lycee, Brevet et Bac, Brevet, Bac, Prépa concours, Prépa, concours, Prepa,domicile",
+        "prev": false,
+        "next": false
+    }
+}

@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: / 
+Disallow: /pages/*
+Disallow: /index1*
+
+Sitemap: http://onde-de-service.fr/sitemap.xml
