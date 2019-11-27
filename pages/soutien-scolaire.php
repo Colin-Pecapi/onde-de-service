@@ -1,7 +1,7 @@
 <!-- Soutien scolaire Section -->
 <section class="page-section bg-white" id="soutien-scolaire">
   <div class="container">
-    <h2 class="text-center mt-0">Soutien scolaire</h2>
+    <h2 class="text-center mt-0">Soutien scolaire et cours </h2>
     <hr class="divider my-4">
     <p class="text-center mb-4">
       En fonction des besoins de l’élève, je propose, soit des COURS REGULIERS, soit des COURS PONCTUELS à la demande,
